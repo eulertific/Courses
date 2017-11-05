@@ -32,7 +32,9 @@
 1. 前往 [Toolbox](https://www.jetbrains.com/toolbox/app) 下载 `Toolbox` 的安装包
 2. 双击下载的 `exe` 安装文件，按照指引安装
 3. 双击 `Toolbox` 图标，在打开的界面中
-![Toolbox](_meterials/toolbox.png)
+
+![Toolbox](_materials/toolbox.png)
+
 选择安装需要安装的 `PyCharm` 版本
 
 > - PyCharm Professional Edition:专业版本 需要购买许可，也可以通过教育邮箱去注册申请免费一年使用，请参考 [JetBrains Student](https://www.jetbrains.com/zh/student/) 注册
